@@ -64,7 +64,7 @@ async def start_(client: Client, message: Message):
                         "🌐 Wiki's Page", url="https://github.com/levina-lab/veezmusic/wiki/Veez-Music-Wiki's")
                 ],[
                     InlineKeyboardButton(
-                        "🧪 Source Code 🧪", url="https://github.com/levina-lab/VeezMusic"
+                        "Secondary Channel 📯", url="https://t.me/X_F0RCED"
                     )
                 ]
             ]
